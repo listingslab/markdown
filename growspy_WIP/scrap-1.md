@@ -1,20 +1,7 @@
----
-slug: "/github"
-title: "Free on GitHub"
-book: "Growspy"
-description: "Open Source"
-keywords: "git, repository, open source, community"
-icon: "github"
-image: "/svg/og/github.svg"
-order: 100
----
-# Do you code?
+- Public (Open Source)
+    
+- Private (Join our team)
 
-If so then quite a lot of Growspy is Open Source. Not only is it free, but 
-it's supported by the people who made it who really _want _you to use it and help 
-you to do so
-
-##  Growspy GitHub Org
 
 ### Public (Open Source) Repositories 
 
